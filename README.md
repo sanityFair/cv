@@ -1,10 +1,7 @@
 # Артем Зимин
 ## Senior Frontend Developer
 
-[![Email](https://img.shields.io/badge/Email-um10r8%40gmail.com-blue)](mailto:um10r8@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40unknown8039-blue)](https://t.me/unknown8039)
 [![GitHub](https://img.shields.io/badge/GitHub-sanityFair-black)](https://github.com/sanityFair)
-[![Phone](https://img.shields.io/badge/Phone-%2B7%20964%20711--80--39-green)]()
 
 ## 👨‍💻 О себе
 
